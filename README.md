@@ -1,10 +1,9 @@
-### VEZBE
-
+# VEZBE
 Ovo je repository gde cemo raditi i slati sve vezbe.
 
 ## HTML I CSS VEZBA 1
 
-# Priprema
+### Priprema
 
 Pre nego sto pocnete da radite zadatak sa www.takethecoder.com procitajte uputstvo odavde.
 Kopirajte ove komande jednu po jednu u vasem terminalu:
