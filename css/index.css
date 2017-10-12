@@ -81,9 +81,9 @@ hr{
   width: 150px;
   height: 50px;
   border: 2px solid #1bbcee;
-  margin: 15 auto;
   background-color: #1bbcee;
   border-radius: 5px;
+  margin: 5px auto;
 }
 
 .choose_plan p {
