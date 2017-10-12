@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+}
+
+.glavna-navigacija {
+  background-color: pink;
+}
+
+.glavna-sekcija {
+  width: 200px;
+  height: 350px;
+  border: 2px solid #1bbcee;
+  margin: 50px auto;
+  border-radius: 5px;
+}
+
+.recommended {
+  width: 150px;
+  height: 20px;
+  border: 2px solid #1bbcee;
+  margin: 0 auto;
+  background-color: #1bbcee;
+  border-radius: 0 0 5px 5px;
+}
+
+.recommended p {
+  text-align: center;
+  margin-top: 0;
+  color: white;
+  font-weight: bold;
+}
+
+.recommended h1 {
+  text-align: center;
+  color: #1bbcee;
+
+}
+
+.dolar {
+  color: #fcba10;
+  text-align: center;
+  font-size: 30px;
+  margin-top: 60px;
+}
+
+.month {
+  margin-left: 70px;
+  color: grey;
+
+}
+
+hr{
+  width: 150px;
+}
+.broj {
+  font-size: 25px;
+  margin-left: 45px;
+}
+.sites {
+  color: grey;
+}
+
+.broj20 {
+  font-size: 25px;
+  margin-left: 45px;
+}
+.storage {
+  color: grey;
+}
+
+.broj10 {
+  font-size: 25px;
+  margin-left: 45px;
+}
+
+.users {
+  color: grey;
+}
+
+.choose_plan {
+  width: 150px;
+  height: 50px;
+  border: 2px solid #1bbcee;
+  margin: 15 auto;
+  background-color: #1bbcee;
+  border-radius: 5px;
+}
+
+.choose_plan p {
+  color: white;
+  text-align: center;
+}
