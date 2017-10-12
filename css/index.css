@@ -95,6 +95,12 @@ body  {
   text-align: center;
   display: block;
   color: white;
-  
+}
+
+.zaglavlje li {
+  text-align: center;
+  text-decoration: none;
+  list-style: none;
+  margin: 10px 500px 0px 400px
 }
 
