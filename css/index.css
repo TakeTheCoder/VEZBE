@@ -1,0 +1,107 @@
+body {
+  margin: 0;
+}
+
+/* Glavna-navigacija */
+
+.glavna-navigacija {
+  background-color: pink;
+  height: 40px;
+}
+
+.glavna-navigacija a{
+  text-decoration: none;
+  color: blue;
+  padding: 10px;
+  line-height: 40px;
+}
+
+/* Glavna-sekcija */
+
+.glavna-sekcija{
+  width: 150px;
+  margin: 10px auto;
+  padding: 15px 25px;
+  text-align: center;
+  background-color: white;
+  border: 3px solid #37bce5;
+}
+
+.preporuceno {
+  width: 150px;
+  margin: -15px auto 15px;
+  padding: 0 0 2px 0;
+  line-height: 20px;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  background-color: #37bce5;
+}
+
+.naslov{
+  margin-bottom: 0 0 12px 0;
+  font-size: 25px;
+  color: #37bce5;
+}
+
+.cena {
+  margin: 0 0 20px 0;
+  font-size: 30px;
+  font-weight: bold;
+  color: #fd935a;
+}
+
+.po-mesecu {
+  display: block;
+  margin: 5px 0 0 0;
+  font-size: 15px;
+  font-weight: normal;
+  color: #aaa;
+}
+
+ul {
+  list-style: none;
+}
+
+.stavke-o-timu {
+  width: 120px;
+  margin: 20px 15px;
+  padding: 10px 0 0 15px;
+  text-align: left;
+}
+
+.stavka {
+  line-height: 20px;
+  font-size: 25px;
+  color: #333;
+}
+
+.stavka-naziv {
+  font-size: 13px;
+  font-weight: normal;
+  color: #aaa;
+}
+
+.stavka-velicina {
+  font-size: 16px;
+}
+
+.dugme {
+  display: block;
+  line-height: 40px;
+  font-size: 15px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  line-height: 50px;
+  background: #37bce5;
+}
+
+/* Zaglavlje */
+
+.zaglavlje a {
+  display: block;
+  text-decoration: none;
+  padding: 10px 0 0 10px;
+}
