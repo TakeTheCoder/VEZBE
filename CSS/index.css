@@ -1,0 +1,65 @@
+.glavna-navigacija {
+  background-color: pink;
+  text-decoration: none;
+  padding: 20px;
+  text-align: center;
+  font-size: 20px;
+  font-style: black;
+  text-decoration: none;
+}
+.jedan {
+  text-decoration: none;
+}
+.glavna-sekcija {
+  background-color: white;
+  padding: 40 0 0 15px;
+  border-color: blue;
+  border-width: 4px;
+  border-style: solid;
+  text-align: center;
+  width: 300px;
+  height: 400px;
+  margin: auto;
+}
+.dva {
+  background-color: blue;
+  color: white;
+  padding: 5px;
+  margin: auto;
+  width: 200px;
+}
+.tri {
+  color: blue;
+  margin-bottom: 0px;
+}
+.cetri {
+  margin-top: 0px;
+  color: orange;
+}
+.pet{
+  color: silver;
+}
+.sest {
+  color: silver;
+}
+.sedam {
+  margin: auto;
+}
+.osam {
+  text-align: left;
+}
+.devet {
+  color: silver;
+  font-size: 13px;
+  text-align: left
+}
+.deset {
+  background-color: blue;
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+  margin: auto;
+  width: 200px;
+  font-size: 20px;
+  margin-top: 55px;
+}
