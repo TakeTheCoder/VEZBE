@@ -1,0 +1,93 @@
+.centriraj {
+  text-align: center;
+}
+
+.mala-donja-margina {
+  margin: 10px 0 5px 0;
+}
+
+.bez-margine {
+  margin: 0;
+}
+
+.plava {
+  color: blue;
+}
+
+.plava-pozadina {
+  background-color: blue;
+}
+
+.bela {
+  color: white;
+}
+
+.narandzasta {
+  color: orange;
+}
+
+.siva {
+  color: gray;
+}
+
+.crna {
+  color: black;
+}
+
+.mala-slova {
+  font-size: 13px;
+}
+
+.glavna-navigacija {
+  background-color: pink;
+  height: 50px;
+}
+
+.glavna-navigacija ul, .zaglavlje ul {
+  list-style: none;
+  padding: 0;
+}
+
+.glavna-navigacija ul li {
+  display: inline;
+}
+
+.glavna-navigacija ul li a{
+  font-size: 25px;
+  line-height: 50px;
+  text-decoration: none;
+}
+
+.glavna-sekcija .kutija {
+  width: 230px;
+  margin: 40px auto;
+  border: 3px solid blue;
+}
+
+.glavna-sekcija .kutija h4{
+  line-height: 25px;
+}
+
+.glavna-sekcija .kutija .centrirana {
+  margin: 0 20px 10px 20px;
+}
+
+.glavna-sekcija .kutija .sa-gornjom-marginom {
+  margin: 20px 20px 10px 20px;
+}
+
+.glavna-sekcija .kutija .manja-kutija {
+  width: 120px;
+  margin: 0 auto 10px auto;
+}
+
+.glavna-sekcija .kutija .izaberi {
+  height: 50px;
+  width: 83%;
+  border: none;
+}
+
+.zaglavlje ul li a{
+  text-decoration: none;
+}
+
