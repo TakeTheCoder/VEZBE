@@ -1,0 +1,114 @@
+body {
+	margin: 0;
+}
+
+.link {
+	background-color: pink;
+  color: white;
+  height: 50px;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.link ul {
+  margin: 0;
+}
+
+.link a {
+  margin: 50px;
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+}
+
+.link li {
+  list-style: none;
+  display: inline;
+}
+
+.nova_sekcija {
+  text-align: center;
+  border: 3px solid #39bce5;  
+  margin: auto;
+  width: 250px;
+  direction: center;
+}
+
+.recommended {
+  margin-top: 0;
+  background-color: #39bce5;
+  color: white;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.team {
+  color: #39bce5;
+  font-size: 30px;
+  line-height: 10px;
+}
+
+.price {
+  color: orange;
+  font-size: 30px;
+}
+
+.linija {
+    display: block;
+    color: grey;
+    font-size: 15px;
+}
+
+.midle {
+  border-top: 2px solid lightgray;
+  margin-left: 25px;
+  margin-right: 25px;
+  padding: 5px;
+  font-size: 30px;
+  line-height: 10px;
+}
+
+.price {
+  margin-bottom: 30px;
+  vertical-align: baseline;
+  color: orange;
+  display: block;
+}
+
+.users {
+  color: gray;
+  font-size: 15px;
+  word-spacing: normal;
+}
+
+.gb {
+  font-size: 20px;
+  word-spacing: normal; 
+}
+
+.submit {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 15px;
+  margin-right: 15px;
+  background-color: #39bce5;
+  color: white;
+  display: block;
+  height: 40px;
+  padding: 10px;
+  font-size: 30px;
+  text-decoration: none;
+
+}
+
+.kraj {
+  padding: 50px;
+  margin: auto;
+  list-style: none;
+  text-align: center;  
+  color: black;
+  font-size: 20px;
+}
+
+.kraj a {
+  text-decoration: none;  
+}
