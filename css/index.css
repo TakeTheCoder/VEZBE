@@ -1,0 +1,83 @@
+body  {
+  margin: 0;
+}
+
+.mala-slova {
+  font-size: 13px;
+}
+
+.siva {
+  color: grey;
+}
+
+.text-sredina {
+  text-align: center;
+}
+
+.bez-linije {
+  text-decoration: none;
+}
+
+.navigacioni-meni ul li {
+  display: inline;
+}
+
+.navigacioni-meni ul {
+  margin: 0;
+  padding: 0;
+  line-height: 45px;
+}
+
+.navigacioni-meni {
+  background-color: pink;
+  height: 50px;
+  margin: 0 0 20px 0;
+}
+
+.glavna-kutija {
+  width: 300px;
+  margin: auto;
+  border: 3px solid lightblue;
+}
+
+.glavna-kutija .preporuceno {
+  width: 180px;
+  margin: auto;
+  background-color: lightblue;
+  color: white;
+}
+
+.glavna-kutija .preporuceno p {
+  padding: 3px;
+  margin: 0;
+}
+
+.glavna-kutija h3 {
+  color: lightblue;
+}
+
+.glavna-kutija .cena {
+  color: orange;
+  margin: 10px 0 0 0;
+}
+
+.glavna-kutija p {
+  margin: 5px 0 15px 0
+}
+
+.glavna-kutija .centritan-text {
+  margin: 0 0 0 80px;
+}
+
+.glavna-kutija .dugme {
+  margin: 0 0px 20px 75px;
+  background-color: lightblue;
+  height: 60px;
+  width: 150px;
+  font-size: 17px;
+  color: white;
+}
+
+.linkovi ul {
+  list-style: none;
+}
