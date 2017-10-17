@@ -1,0 +1,46 @@
+.margina {
+  margin: 0;
+}
+
+.pocetak {
+  background-color: #2196f3;
+  text-align: center;
+}
+
+.naslov {
+  display: inline-block;
+}
+
+.registracija {
+  text-decoration: none;
+  color: black;
+}
+
+.dugme {
+  float: right;
+  margin: 7px;
+}
+
+.telo {
+  text-transform: uppercase;
+  text-align: center;
+  margin: 50px 50px;
+}
+
+.slika {
+  height: 500px;
+  width: 500px;
+}
+
+.kraj {
+  background-color: gray;
+  margin: 100px 0;
+}
+.kraj ul {
+  text-align: center;
+  list-style: none;
+}
+.home {
+  float: left;
+  margin: 7px;
+}
