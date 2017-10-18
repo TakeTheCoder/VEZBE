@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+}
+
+.fixed {
+  position: fixed;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.right {
+  right: 50%;
+}
+
+.top {
+  top: 50%;
+
+}
+.levo {
+  left: 0;
+}
+
+.desno {
+   right: 0;
+}
+
+.zaglavlje {
+  bottom: 0;
+}
+
+.navigacija {
+  top: 0;
+}
